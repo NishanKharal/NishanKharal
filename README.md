@@ -24,7 +24,7 @@ I believe **clear communication** and **teamwork** are key to delivering success
 
 ## 📬 Contact Me  
 
-📧 **Email:** [nishan.kharal@example.com](mailto:kharelnisahan92@gmail.com)  
+📧 **Email:** [kharelnishan92@gmail.com](mailto:kharelnisahan92@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/nishankharal](https://linkedin.com/in/nishankharal)  
 
 ---
