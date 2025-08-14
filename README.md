@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nishan Kharal  
+# Hi, I'm Nishan Kharal  
 
-💻 **Full Stack Developer (Frontend Focused)** | 🌐 **Web Enthusiast** | 📊 **Finance-Aware Tech Builder**
+💻 **Full Stack Developer (Frontend Focused)** | 🌐 **Web Passionate** | 📊 **Finance-Aware Tech Builder**
 
 ---
 
@@ -8,7 +8,7 @@
 I'm a Full Stack Developer with practical experience in **HTML**, **CSS**, **Java**, and **C**.  
 I enjoy building **responsive, user-friendly web applications** and continuously improving my frontend development skills.  
 
-Beyond coding, I have a strong interest in **finance**, which helps me design **smart, data-driven applications**.  
+Beyond coding, I have a strong interest in **finance**.  
 I believe **clear communication** and **teamwork** are key to delivering successful projects.  
 
 ---
